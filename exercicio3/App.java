@@ -11,6 +11,8 @@ public class App {
         System.out.println("testando comando!");
         System.out.println("git");
 
+        System.out.println("alguma coisa");
+
          
         
     }
