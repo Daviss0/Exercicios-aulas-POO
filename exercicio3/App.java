@@ -7,9 +7,11 @@ public class App {
         Ehprimo primo = new Ehprimo();
         System.out.println("digite um numero ");
         numero = scan.nextInt();
-         primo.primoOuNao(numero) {
+         
+        System.out.println("testando comando!");
+        System.out.println("git");
 
-         }
+         
         
     }
 }
